@@ -12,6 +12,6 @@ A simple yet powerful calculator built with Python.
 ```bash
 python3 calculator.py
 
-## How to Run
+## Author Name
 ```Pralayankar Tiwari
 
